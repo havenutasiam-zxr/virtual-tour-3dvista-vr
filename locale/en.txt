@@ -1,0 +1,33 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_FCBB408D_F376_8BF5_41C6_4F6971276AD8.url = https://havenutasiam-zxr.github.io/chatbot_unklab/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E74C498F_F3D6_BDF6_41E5_FDC66EF1AB01.toolTip = ruang tamu
+
+## Media
+
+### Title
+panorama_FC2AB541_F36E_956D_41B6_4E6BFA6F6DB9.label = Image_2D996FC7-D3B8-46A3-84CE-0213E2B39D97
+panorama_FD4C8ED6_F36E_9716_41EC_C3E22B0FED8E.label = Image_36AFC6CE-6BD3-4C46-AAA4-D854F0807EFA
+panorama_FD4BF75E_F371_7516_41DB_204195EF6F92.label = Image_C23249C2-EFB9-4E0D-9727-7BD8A601ED2E
+
+## Skin
+
+### Button
+Button_E6B77583_F3F1_95B7_41DA_97A229392FC0.label = VR
+
+### Label
+label4056.text = My Virtual Tour
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
